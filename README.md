@@ -1,2 +1,2 @@
-# my-test
-Creating a test repository
+# This is my readMe file
+Hello Git Users
